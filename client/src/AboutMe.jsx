@@ -6,7 +6,7 @@ function AboutMe(){
            </div>
             <div className="AboutDiv">
                 <div  >
-                    <img src="./pexels-designecologist-1779487.jpg" alt="" width="500px" />
+                    <img src="/pexels-designecologist-1779487.jpg" alt="" width="500px" />
                 </div>
                 <div className="about2">
                     <h3>Hi, I'm PRASUN GAURAV,a passionate web developer with a focus on creating efficient, user-friendly web applications. With a solid foundation in HTML, CSS, JavaScript, and React, I enjoy building projects that solve real-world problems while keeping the user experience at the forefront.</h3>

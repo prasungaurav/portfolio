@@ -9,6 +9,7 @@
 .App {
   background-image: linear-gradient( black , rgb(29, 29, 29) , rgb(62, 60, 60) );
   min-height: 100vh;
+  width: 100vw;
   color: white;
 }
 
