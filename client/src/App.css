@@ -134,7 +134,7 @@
   left: 100px ;
   left:0px;
   animation-name: circle1;
-  animation-duration: 5s;
+  animation-timeline: view();
   animation-fill-mode: forwards;
   
 }
@@ -152,7 +152,7 @@
 .circle2{
   left:50px;
   animation-name: circle2;
-  animation-duration: 5s;
+  animation-timeline: view();
   animation-fill-mode: forwards;
   
 }
@@ -169,7 +169,7 @@
 .circle3{
   left:50px;
   animation-name: circle3;
-  animation-duration: 5s;
+  animation-timeline: view();
   animation-fill-mode: forwards;
   
 }
@@ -186,7 +186,7 @@
 .circle4{
   left:50px;
   animation-name: circle4;
-  animation-duration: 5s;
+  animation-timeline: view();
   animation-fill-mode: forwards;
   
 }
@@ -203,7 +203,7 @@
 .circle5{
   left:50px;
   animation-name: circle5;
-  animation-duration: 5s;
+  animation-timeline: view();
   animation-fill-mode: forwards;
   
 }
@@ -221,7 +221,7 @@
 .circle6{
   left:50px;
   animation-name: circle6;
-  animation-duration: 5s;
+  animation-timeline: view();
   animation-fill-mode: forwards;
   
 }
@@ -239,7 +239,7 @@
 .circle7{
   left:50px;
   animation-name: circle7;
-  animation-duration: 5s;
+  animation-timeline: view();
   animation-fill-mode: forwards;
   
 }
@@ -256,7 +256,7 @@
 .circle8{
   left:50px;
   animation-name: circle8;
-  animation-duration: 5s;
+  animation-timeline: view();
   animation-fill-mode: forwards;
   
 }
@@ -273,7 +273,7 @@
 .circle9{
   left:50px;
   animation-name: circle9;
-  animation-duration: 5s;
+  animation-timeline: view();
   animation-fill-mode: forwards;
   
 }
